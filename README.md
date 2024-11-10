@@ -1,6 +1,6 @@
 # Web Scraper
 
-A robust and flexible web scraping tool built with Python and Selenium that handles multiple URLs, manages data storage, and includes features like random user agent rotation and error handling.
+A robust and flexible web scraping tool built with Python and Selenium that handles multiple URLs, manages data storage, and includes features like random user agent rotation and error handling. some
 
 ## Features
 
